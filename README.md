@@ -27,6 +27,10 @@ Document：https://github.com/linxiaoyuan/Altura-ETH-ReactNative#readme
 ## Presentation：
 
 
+https://user-images.githubusercontent.com/41985804/224505935-9014fa10-9e37-424c-8ce7-1829444fbbed.mov
+
+
+
 ## Issue：
 ### 1. Compatibility with js lib
 Although ethers.js is primarily intended for use in a browser environment, it is possible to use it in a React Native project. However, there may be some compatibility issues since React Native does not provide the same environment as a browser. To overcome this, I use a shim.js file that can help bridge the gap between ethers.js and React Native.
