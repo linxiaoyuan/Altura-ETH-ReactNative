@@ -26,19 +26,19 @@ Use react-native-keychain to store private key
 
 3. The app should display the user's ETH balance and address.
 
-![simulator_screenshot_2E9933C2-3008-4392-AEF2-45EC22DB69E7](https://user-images.githubusercontent.com/41985804/224506218-9440ae43-b208-41ae-98c9-abdaac989307.png)
-
+<img src="https://user-images.githubusercontent.com/41985804/224506218-9440ae43-b208-41ae-98c9-abdaac989307.png" width="300">
 
 
 4. The app should have a clean and intuitive user interface, with clear instructions and
 feedback.
 
-![simulator_screenshot_5F31B924-EA03-4B3D-B858-B4E9A90AE2A7](https://user-images.githubusercontent.com/41985804/224506326-36ed31cb-18c3-43d7-95fc-76acce3e23ba.png)
+<img src="https://user-images.githubusercontent.com/41985804/224506326-36ed31cb-18c3-43d7-95fc-76acce3e23ba.png" width="300">
 
 
 5. The app should be designed with scalability and future updates in mind.
 
-Design as a single component, which can be reuse in other page.
+Design as a single component, which can be reuse in other page.  
+
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/41985804/224506346-e0bbac10-f038-42a0-b999-3f8b4a9f6eaa.png">
 
 
