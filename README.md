@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/41985804/224505935-9014fa10-9e37-424c-
 
 ## Issue：
 ### 1. Compatibility with js lib
-Although ethers.js is primarily intended for use in a browser environment, it is possible to use it in a React Native project. However, there may be some compatibility issues since React Native does not provide the same environment as a browser. To overcome this, I use a shim.js file that can help bridge the gap between ethers.js and React Native.
+Although web3.js is primarily intended for use in a browser environment, it is possible to use it in a React Native project. However, there may be some compatibility issues since React Native does not provide the same environment as a browser. To overcome this, I use a shim.js file that can help bridge the gap between web3.js and React Native.
 ### 2. iOS ATS
 iOS imposes network constraints through its App Transport Security (ATS) feature, which enforces secure connections between an app and its servers. In this project, I just simply disable it in the Info.plist file of Xcode project by adding the following code:
 <key>NSAppTransportSecurity</key>
