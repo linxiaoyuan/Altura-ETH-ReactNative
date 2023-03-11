@@ -21,8 +21,8 @@ how you would securely retrieve, store and handle any sensitive API keys / secre
 
 
 ## Implement
-git：https://github.com/linxiaoyuan/Altura-ETH-ReactNative.git
-Document：
+git：https://github.com/linxiaoyuan/Altura-ETH-ReactNative.git  
+Document：https://github.com/linxiaoyuan/Altura-ETH-ReactNative#readme
 
 ## Presentation：
 
